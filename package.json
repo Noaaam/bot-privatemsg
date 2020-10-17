@@ -1,0 +1,25 @@
+{
+  "name": "kaylie",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js-commando": "^0.10.0",
+    "discord.js": "^12.3.1",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "m3u8stream": "^0.6.5",
+    "ms": "^2.1.2",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.6.0",
+    "opusscript": "^0.0.6",
+    "parse-time": "^0.1.4",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^0.29.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "noam",
+  "license": "ISC"
+}
